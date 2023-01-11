@@ -1,18 +1,7 @@
-## Getting Started
+# Representando o Mundo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- O que é?
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse é mais um dos exercícios da aceleração de Java e Spring Boot feito pela Driven Education em janeiro de 2023.
+Trata-se da primeira atividade de criação de classes e métodos básicos. Essa ficou mais apressadamente feita do que o normal
+porque a minha energia faltou, eu fiquei sem tempo e tive que entregar faltando 10 minutos para o prazo fechar.
